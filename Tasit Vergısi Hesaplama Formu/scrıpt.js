@@ -17,11 +17,9 @@ function vergiyiHesapla() {
 
   //1. section icin yapilan kodlamadir . Arac tipi secimini alma
   for (i; i < document.querySelector("#aracTipi").length; i++) {
-    if (document.querySelector("#aracTipi").options[0].selected) {
-      aracTipi = document.querySelector("#aracTipi").options[0].value;
-    } else if (document.querySelector("#aracTipi").options[1].selected) {
-      aracTipi = document.querySelector("#aracTipi").options[1].value;
-    }
+    if (document.querySelector("#aracTipi").options[i].selected) {
+      aracTipi = document.querySelector("#aracTipi").options[i].value;
+    } 
   }
   if (aracTipi == "Motorsiklet") {
     odenecekTutar = 100;
