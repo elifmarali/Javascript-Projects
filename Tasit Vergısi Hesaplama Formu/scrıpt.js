@@ -12,6 +12,7 @@ function yillar() {
 function vergiyiHesapla() {
   let aracYili;
   let aracTipi;
+   let aracGucu;
   let odenecekTutar;
   let i = 0;
 
@@ -28,7 +29,7 @@ function vergiyiHesapla() {
   }
 
   //2. section icin dongu .arac gucu secimini alalim
-  let aracGucu;
+ 
   for (i = 0; i < document.getElementsByName("motorGucu").length; i++) {
     if (document.getElementsByName("motorGucu")[0].checked) {
       aracGucu = "999cc";
