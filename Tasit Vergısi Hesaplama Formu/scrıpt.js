@@ -10,9 +10,7 @@ function yillar() {
   }
 }
 function vergiyiHesapla() {
-  let aracYili;
-  let aracTipi;
-   let aracGucu;
+  let aracYili,aracTipi,aracGucu;
   let odenecekTutar;
   let i = 0;
 
