@@ -9,3 +9,8 @@
 ## 3.Akordiyon Menu Yapimi
 <img width="1440" alt="Screen Shot 2022-12-03 at 11 08 17" src="https://user-images.githubusercontent.com/71133148/205431404-88190637-91ca-424a-95e2-6db991505e92.png">
 <img width="1440" alt="Screen Shot 2022-12-03 at 11 10 42" src="https://user-images.githubusercontent.com/71133148/205431409-75865426-686e-4602-8316-ba956662a158.png">
+ 
+## 4.Kredi Faizi Hesaplama Formu (Degiskenler)
+<img width="1248" alt="Screen Shot 2022-12-08 at 16 27 28" src="https://user-images.githubusercontent.com/71133148/206458448-8a9c2741-57e6-42f9-b5a4-9345ea697793.png">
+
+
