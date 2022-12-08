@@ -13,4 +13,6 @@
 ## 4.Kredi Faizi Hesaplama Formu (Degiskenler)
 <img width="1248" alt="Screen Shot 2022-12-08 at 16 27 28" src="https://user-images.githubusercontent.com/71133148/206458448-8a9c2741-57e6-42f9-b5a4-9345ea697793.png">
 
-
+## 5.Tasit Vergisi Hesaplama Formu (If-Else-For)
+<img width="1440" alt="Screen Shot 2022-12-08 at 16 30 44" src="https://user-images.githubusercontent.com/71133148/206458990-3812cb79-ce61-400d-9ce0-b4a99167604a.png">
+<img width="1440" alt="Screen Shot 2022-12-08 at 16 30 59" src="https://user-images.githubusercontent.com/71133148/206459016-7f06aa0d-ee20-4b4d-92eb-46b7dd8512d0.png">
