@@ -1,0 +1,68 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #c58940;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+}
+.container {
+  padding: 10px 100px 10px 100px;
+  text-align: center;
+}
+
+#header {
+  font-size: 40px;
+  padding: 2px;
+  color: #f2fadc;
+}
+
+.option {
+  font-size: 25px;
+  background-color: #faeab1;
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 20px;
+  width: 100vh;
+  margin: 5px;
+}
+
+#aracTipi {
+  font-size: 20px;
+  width: 200px;
+}
+select {
+  border-radius: 3px;
+}
+
+#hesaplaButton {
+  background-color: #4a2a07;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#aracModeli,
+option {
+  font-size: 19px;
+}
+
+#sonuc {
+  width: auto;
+  height: auto;
+  background-color: #2c1b10;
+  color: #f2fadc;
+  border-radius: 5px;
+  transition: 500ms all;
+}
