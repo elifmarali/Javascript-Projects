@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kredi-Faiz Hesaplama Formu</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Kredi Hesaplama Formu</h1>
+      <form action="#" id="form-kredi">
+        <label for="krediTutari">Çekilecek kredi tutarı: </label>
+        <input type="text" id="krediTutari" />
+        <label for="listeVade">Vade seçiniz: </label>
+        <select name="" id="listeVade">
+          <option value="12">12 Ay</option>
+          <option value="24">24 Ay</option>
+          <option value="36">36 Ay</option>
+          <option value="48">48 Ay</option>
+        </select>
+        <input
+          type="button"
+          value="Kredi Geri Ödeme Şartlarını Hesapla"
+          id="hesaplaButton"
+          onclick="krediHesapla()"
+        />
+      </form>
+      <div class="sonuc"></div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
